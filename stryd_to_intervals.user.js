@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Stryd to Intervals.icu Workout Exporter
-// @namespace    https://github.com/
+// @namespace    https://github.com/Kurtpenter/stryd2intervals
 // @version      2.3.0
 // @description  Converts Stryd workouts into Intervals.icu builder format using absolute CP Watts.
 // @author       Andrea Curtoni
 // @match        https://*.stryd.com/powercenter/*
 // @match        https://stryd.com/powercenter/*
 // @icon         https://www.stryd.com/favicon.ico
+// @downloadURL  https://github.com/Kurtpenter/stryd2intervals/raw/refs/heads/main/stryd_to_intervals.user.js
+// @updateURL    https://github.com/Kurtpenter/stryd2intervals/raw/refs/heads/main/stryd_to_intervals.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
 // @grant        GM_setValue
